@@ -39,7 +39,7 @@ This repository contains notebooks, code samples, sample apps, and other resourc
       <br>
       <a href="rag-grounding/"><code>rag-grounding/</code></a>
     </td>
-    <td>Use this folder for information on Retrieval Augmented Generation (RAG) and Grounding. This is an index of notebooks and samples across other directories focused on this topic.</td>
+    <td>Use this folder for information on Retrieval Augmented Generation (RAG) and Grounding. This is an index of notebooks and samples across other directories focused on this https://firebase.google.com/docs/extensions/faq-and-troubleshooting?authuser=6#secret-manager-migrationtopic.</td>
   </tr>
   <tr>
     <td>
